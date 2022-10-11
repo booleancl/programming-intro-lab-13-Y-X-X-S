@@ -1,0 +1,13 @@
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/00-createBigCitiesDataBase.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/01-createCitiesTable.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/08-count.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/data/ciudades.csv
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/02-seedCitiesTable.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/12-createWritersTable.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/03-SelectNamePopulateon.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/05-SelectOrder.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/06-SelectWhere.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/07-density.sql}
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/08-count.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/09-sum.sql
+C:/Users/user/Intro_Dev/programming-intro-lab-13-Y-X-X-S/scripts/10-addIndex.sql
